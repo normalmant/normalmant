@@ -1,6 +1,7 @@
 - 👋 Olá meu nome é Renato
 - 📜 Cursando desenvolvimento de sistema
-- 💻 Evoluir no desenvolvimento códigos
+- 💻 Evoluir no desenvolvimento de códigos
+- 👨🏿‍🎓 Conteúdo que mais gosto é o JavaScript
 - 🏐 Hobbys: Ler, jogar xadrez, vôlei e futsal
 
 
